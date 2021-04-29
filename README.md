@@ -6,5 +6,5 @@ The site's layout is responsive and changes using media query and bootstrap brea
 
 <h4>Future Version:</h4>
 1. I am currently working on removing the whitespace that appears on the right side of the screen once the layout changes.
-
+<br>
 2. The navbar links will eventually link up to different pages of the site. 
