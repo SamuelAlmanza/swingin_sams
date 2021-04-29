@@ -3,4 +3,4 @@ Swingin' Sam's Jazz Club - Created Using HTML, CSS, JavaScript, jQuery, Bootstra
  
 The site's layout is responsive and changes using media query and bootstrap breakpoints.
 
-*I am currently working on removing the whitespace on the right side of the screen once the layout changes.
+*I am currently working on removing the whitespace that appears on the right side of the screen once the layout changes.
